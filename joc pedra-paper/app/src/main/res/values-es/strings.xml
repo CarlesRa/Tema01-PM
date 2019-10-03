@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Piedra Papel Tijera</string>
+    <string name="tvTitulo">Piedra Papel Tijera</string>
+    <string name="ivJugar">Selecciona una opción</string>
+    <string name="btPiedra">PIEDRA</string>
+    <string name="btPapel">PAPEL</string>
+    <string name="btTijera">TIJERA</string>
+    <string name="btnuevoJuego">VOLVER A JUGAR</string>
+    <string name="victoria">Has Ganado!!</string>
+    <string name="derrota">Has Perdido...</string>
+    <string name="empate">Empate!!</string>
+</resources>
