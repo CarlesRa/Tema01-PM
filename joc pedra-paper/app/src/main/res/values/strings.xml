@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="tvTitulo">Rock Paper Scissors</string>
+    <string name="ivJugar">Select one</string>
+    <string name="btPiedra">ROCK</string>
+    <string name="btPapel">PAPER</string>
+    <string name="btTijera">SCISSORS</string>
+    <string name="btnuevoJuego">PLAY AGAIN</string>
+    <string name="victoria">You Win!!</string>
+    <string name="derrota">You Lost...</string>
+    <string name="empate">Tie!!</string>
+</resources>
